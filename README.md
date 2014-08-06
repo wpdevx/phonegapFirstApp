@@ -1,0 +1,4 @@
+phonegapFirstApp
+================
+
+phonegaptest
